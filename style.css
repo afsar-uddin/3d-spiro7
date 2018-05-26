@@ -1,0 +1,13 @@
+html,
+body {
+	margin: 0px;
+	padding: 0px;
+/*	background-image: url('stars.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	width: 100%;*/
+}
+canvas {
+	display: block;
+}
